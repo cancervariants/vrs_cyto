@@ -10,7 +10,7 @@ jupyter = "*"
 jupyterlab = "*"
 bs4 = "*"
 requests = "*"
-"ga4gh.vr" = {editable = true, path = "/Users/awagner/Workspace/git/vr-python"}
+"ga4gh.vrs" = "0.8.0dev0"
 
 [requires]
 python_version = "3.8"
